@@ -4,5 +4,6 @@ public class Test1 {
         System.out.println("Test1");
         System.out.println("ADD LOCALLY!!!");
         System.out.println("ADDED LOCALLY, pushed with GIT MENU!!!");
+        //Burasi Remote Repoda Guthupa Eklendi!!!
     }
 }
